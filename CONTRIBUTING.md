@@ -10,6 +10,8 @@ Clone the repository and install the dependencies with uv:
     cd photopass-organizer
     uv sync
 
+[CLAUDE.md](CLAUDE.md) has a map of the code and the rules that are easy to break.
+
 ## Checks
 
 Run these before opening a pull request. CI runs the same checks on macOS and Linux with Python 3.12 and 3.13.
